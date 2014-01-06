@@ -8,3 +8,5 @@ How do you deal with your emotional reaction to getting stuck?  When you are stu
 * Acceptance
 * Enjoyment
 * Enthusiasm
+
+Less talk, more showing coding?
